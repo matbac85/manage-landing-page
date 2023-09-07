@@ -484,8 +484,7 @@ input:where([type="text"], [type="email"], ) {
 }
 
 .a11y-slider-container {
-  margin-block: var(--size-700);
-  margin-inline: var(--size-400);
+  margin: var(--size-700) var(--size-400);
 }
 
 .slider > * {
