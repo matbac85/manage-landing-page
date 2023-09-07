@@ -1,5 +1,7 @@
 # Manage Landing Page
 
+[Link to the app](https://matbac85.github.io/manageLandingPage/)
+
 ## Manage Landing Page using JavaScript, HTML and CSS
 
 Here is a landing page created with the guidance of Kevin Powell. This project was to replicate a provided design as closely as possible.
