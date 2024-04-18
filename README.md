@@ -1,6 +1,6 @@
 # Manage Landing Page
 
-[Link to the app](https://matbac85.github.io/manageLandingPage/)
+[Link to the app](https://matbac85.github.io/manage-landing-page/)
 
 ## Manage Landing Page using JavaScript, HTML and CSS
 
